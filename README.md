@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Pyhton and Power BI
 - 💞️ I’m looking to collaborate on a Data Analysis project to forecast market behaviour
 - 📫 How to reach me catiacarneiro7@gmail.com
-- 😄 Pronouns: Cátia onlu ;)
+- 😄 Pronouns: Cátia only ;)
 - ⚡ Fun fact: I love Techno parties xD
 
 <!---
